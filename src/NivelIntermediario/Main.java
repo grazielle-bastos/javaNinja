@@ -12,6 +12,5 @@ public class Main {
         sasuke.nome = "Uchiha Sasuke";
         sasuke.nomeDoNinja();
         sasuke.tacarKunai();
-
     }
 }
