@@ -2,5 +2,12 @@ package NivelIntermediario;
 
 public interface EstrategiaDeBatalha {
 
-    void estrategiaDeBatalhaNinja();
+    final String nome = "Naruto Uzumaki";
+
+    public void estrategiaDeBatalhaNinja();
+
+    void inteligenciaDeCombate();
+
+    void inteligenciaDeCombate(int qi);
+
 }
