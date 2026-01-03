@@ -1,4 +1,4 @@
-package Desafios.LinkedList_Collection;
+package NivelIntermediario.LinkedList_Collection;
 
 import java.util.*;
 

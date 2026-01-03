@@ -1,4 +1,4 @@
-package NivelIntermediario;
+package NivelIntermediario.PilaresPOO;
 
 public class Shuriken {
     private int tamanho;

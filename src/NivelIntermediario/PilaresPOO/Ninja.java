@@ -1,4 +1,4 @@
-package NivelIntermediario;
+package NivelIntermediario.PilaresPOO;
 
 public abstract class Ninja implements EstrategiaDeBatalha {
 

@@ -1,4 +1,4 @@
-package NivelIntermediario;
+package NivelIntermediario.PilaresPOO;
 
 public class Pergaminho {
     private String conteudo;

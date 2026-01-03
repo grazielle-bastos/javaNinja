@@ -1,6 +1,6 @@
 package NivelIntermediario.Generics_II;
 
-import NivelIntermediario.Kunai;
+import NivelIntermediario.PilaresPOO.Kunai;
 
 public class Main {
     public static void main(String[] args) {
